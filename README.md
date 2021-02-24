@@ -1,4 +1,4 @@
-# better-cloudflare-ip
+# cfip
 
 查找适合自己当前网络环境的优选Cloudflare Anycast IP
 
@@ -6,10 +6,11 @@
 
 20210223，V2.1，在Win版本上，新增日本专用测速BAT和日本专用IP数据文件，然后加了个备份，顺便把日本IP加到原数据文件中
 
+20210224, V2.2, 在Win版本上,替换原先的测速资源（Workers->pages)
 
 
 
-## 使用申明
+## better-cloudflare-ip使用申明
 
 本项目侧重于研究任播技术中丢包率与网速的相互关系，仅供学习使用
 
